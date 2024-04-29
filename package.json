@@ -2,20 +2,20 @@
   "name": "tema-8-mor",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://SimaMNL.github.io/goit-js-hw-08",
+  "homepage": "https://simamnl.github.io/Fresh-Harvest-Box/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/SimaMNL/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/SimaMNL/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.23.0",
